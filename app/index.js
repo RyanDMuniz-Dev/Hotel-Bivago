@@ -25,7 +25,7 @@ export default function ResortHome() {
           Experimente o máximo conforto em meio à natureza. O nosso resort oferece piscinas aquecidas, alta gastronomia, chalés privativos e atividades exclusivas para toda a família se desconectar da rotina.
         </Text>
 
-        <Link href="/resort" asChild>
+        <Link href="/paisagem" asChild>
           <TouchableOpacity style={resortStyles.button} activeOpacity={0.8}>
             <Text style={resortStyles.buttonText}>Explorar Paisagens</Text>
           </TouchableOpacity>
