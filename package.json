@@ -6,6 +6,7 @@
     "@react-navigation/native": "^7.4.1",
     "animate-presence": "^0.2.1",
     "expo": "~57.0.22",
+    "expo-linking": "~57.0.11",
     "expo-router": "~57.0.21",
     "expo-status-bar": "~57.0.1",
     "react": "19.2.3",
